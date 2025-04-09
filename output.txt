@@ -1,0 +1,19 @@
+epoch: 0, loss: 26.09, loss2: 4.31, pf:0.00e+00, pf1:1.62e-05, loss data: -26.47, loss prior: -3.10, logdet: -0.22
+epoch: 1, loss: 44.83, loss2: 1.02, pf:0.00e+00, pf1:7.89e-19, loss data: -44.61, loss prior: -2.87, logdet: -0.22
+epoch: 2, loss: 63.12, loss2: 10.11, pf:0.00e+00, pf1:3.59e-19, loss data: -61.71, loss prior: -3.14, logdet: -0.23
+epoch: 3, loss: 81.69, loss2: 10.44, pf:0.00e+00, pf1:1.38e-27, loss data: -79.54, loss prior: -2.98, logdet: -0.23
+epoch: 4, loss: 90.32, loss2: 26.21, pf:0.00e+00, pf1:1.04e-29, loss data: -87.29, loss prior: -3.38, logdet: -0.23
+pf =  0.00e+00
+pf1 =  5.92e-12
+epoch: 0, loss: 24.58, loss2: 1.96, pf:0.00e+00, pf1:1.88e-09, loss data: -26.35, loss prior: -3.31, logdet: -0.32
+epoch: 1, loss: 43.21, loss2: 4.13, pf:0.00e+00, pf1:1.07e-14, loss data: -44.07, loss prior: -3.08, logdet: -0.33
+epoch: 2, loss: 61.83, loss2: 13.06, pf:0.00e+00, pf1:2.05e-21, loss data: -61.08, loss prior: -3.39, logdet: -0.35
+epoch: 3, loss: 80.67, loss2: 21.19, pf:0.00e+00, pf1:5.33e-24, loss data: -78.73, loss prior: -3.23, logdet: -0.36
+epoch: 4, loss: 90.63, loss2: 14.66, pf:0.00e+00, pf1:4.42e-30, loss data: -87.79, loss prior: -3.41, logdet: -0.38
+pf =  2.71e-05
+pf1 =  2.71e-05
+epoch: 0, loss: 24.55, loss2: 1.96, pf:0.00e+00, pf1:1.88e-09, loss data: -26.35, loss prior: -3.31, logdet: -0.32
+epoch: 1, loss: 43.14, loss2: 4.13, pf:0.00e+00, pf1:1.07e-14, loss data: -44.07, loss prior: -3.08, logdet: -0.33
+epoch: 2, loss: 61.71, loss2: 13.05, pf:0.00e+00, pf1:2.05e-21, loss data: -61.08, loss prior: -3.39, logdet: -0.35
+epoch: 3, loss: 80.51, loss2: 21.19, pf:0.00e+00, pf1:5.32e-24, loss data: -78.73, loss prior: -3.23, logdet: -0.36
+epoch: 4, loss: 90.44, loss2: 14.67, pf:0.00e+00, pf1:4.43e-30, loss data: -87.79, loss prior: -3.41, logdet: -0.38
